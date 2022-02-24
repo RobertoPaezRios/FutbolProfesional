@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\Futbol2\bin\Debug\Futbol2.exe.config
+C:\Users\Roberto\source\repos\Futbol2\bin\Debug\Futbol2.exe
+C:\Users\Roberto\source\repos\Futbol2\bin\Debug\Futbol2.pdb
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.Form1.resources
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.Properties.Resources.resources
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.exe
+C:\Users\Roberto\source\repos\Futbol2\obj\Debug\Futbol2.pdb
